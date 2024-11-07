@@ -25,3 +25,7 @@ python app.py
 You will get url copy it and paste in browser.
 
 Step 10: You have sample_data folder where you can get images to test.
+
+![image](https://github.com/user-attachments/assets/ca98501d-2283-461e-9620-585dc356b32c)
+
+![image](https://github.com/user-attachments/assets/3c185eb6-b2d7-42d2-adab-c5172d40fd6d)
